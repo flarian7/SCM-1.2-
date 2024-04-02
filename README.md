@@ -2,5 +2,6 @@
 
 int main()
 {
-printf("Hello Gangster");
+printf("Hello G");
+printf("Hello G!!");
 }
